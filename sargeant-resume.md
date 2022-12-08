@@ -23,7 +23,7 @@ Brigham Young University - Idaho
 
 ### Internships
 
-__Bugbee Bookkeeping__, (city, state)/(remote)
+__Bugbee Bookkeeping__, (Idaho Falls, ID)
 `January 2022 - July 2022`
 
 - Reconciled bank statements for multiple clients
@@ -31,9 +31,9 @@ __Bugbee Bookkeeping__, (city, state)/(remote)
 - Fixed bookkeeping errors in checking and credit accounts
 - Organized an clients account that was 4 years behind
 
-### Employment Experience, (city, state)/(remote)
+### Employment Experience
 
-__Slitherin Stitch Embroidery__, Owner/Operator  
+__Slitherin Stitch Embroidery__, Owner/Operator, (Idaho Falls, ID)
 `November 2015 - current`
 
 - Develop relationships with new and returning clients
@@ -41,7 +41,7 @@ __Slitherin Stitch Embroidery__, Owner/Operator
 - Maintain, diagnose, and repair equipment malfunctions
 - Track financial purchases and sales
 
-__Beehive Federal Credit Union__, Consumer Loan Officer, (city, state)/(remote)  
+__Beehive Federal Credit Union__, Consumer Loan Officer, (Rexburg, ID)  
 `June 2003 - June 2004`
 
 - Analyzed and approved customers loan application
@@ -49,7 +49,7 @@ __Beehive Federal Credit Union__, Consumer Loan Officer, (city, state)/(remote)
 - Verified that all loans had sufficient and secured collateral
 - Process loan application to meet clients’ needs
 
-__Redding Bank of Commerce__,  Loan Processor, (city, state)/(remote)  
+__Redding Bank of Commerce__,  Loan Processor, (Redding, CA)
 `March 2002 - June 2003`
 
 - Prepared and maintained loan documents for loan officers
